@@ -1,0 +1,5 @@
+print('vinit sharma')
+a = ( input ("Enter the value of a: "))
+b = ( input ("Enter the value of b: "))
+c = int(a) * int(b)
+print("multiplication",c)

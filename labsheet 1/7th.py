@@ -1,0 +1,5 @@
+print('vinit sharma')
+a = int(input ("Enter the value of a: "))
+b = int(input ("Enter the value of b: "))
+perimeter = 2 * (a + b)
+print("Perimeter of rectangle:", perimeter)
